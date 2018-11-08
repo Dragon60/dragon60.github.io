@@ -12,4 +12,4 @@ What I mean is that kids shouldnt have sertain things such as social media, phon
 
 ### Contact me
 
-[email@domain.com](mailto:oscard9037@aurorak12.org)
+[oscard9037@aurorak12.org](mailto:oscard9037@aurorak12.org)
