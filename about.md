@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This site is about how kids should really do while they are going to school.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+What I mean is that kids shouldnt have sertain things such as social media, phones, and additude.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:oscard9037@aurorak12.org)
