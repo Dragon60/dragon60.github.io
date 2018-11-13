@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Is social media good or bad for kids?
+title:  Social Media
 ---
 
-![Is social media Good or bad for kids?](
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![Is social media Good or bad for kids?](/images/accounts-applications-apps-267350.jpg)
 
-![_config.yml]({{ site.baseurl }}accounts-applications-apps-267350.jpg)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Kids mostly say that they have it for they can talk to their friends a lot faster. Which doesn’t make sense since they have their friends at school. Or why cant they use good old phone text messaging or even calling when they are not at school. Social media killed most of the experience of texting since now you can send a photo with a text message inside the photo and that’s called texting which is pointless.
