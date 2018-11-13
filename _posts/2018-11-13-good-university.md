@@ -3,7 +3,7 @@ layout:post
 title: university
 ---
 
-![My university](/image/arch-architecture-archway-247823.jpg)
+![My university](/images/arch-architecture-archway-247823.jpg)
 
 Best university to start off with. Many progarms to major in.
 
