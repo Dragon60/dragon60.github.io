@@ -3,6 +3,7 @@ layout: post
 title: Is social media good or bad for kids?
 ---
 
+![Is social media Good or bad for kids?](
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}accounts-applications-apps-267350.jpg)
