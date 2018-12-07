@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Horror Movies 
@@ -6,7 +5,7 @@ title: Horror Movies
 
 ![iconic horror movies ](/images/horror-movie.jpg)
 
-##Friday the 13th series 
+## Friday the 13th series 
 
 ![friday the 13th](/images/jason.jpg)
 
